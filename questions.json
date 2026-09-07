@@ -1,0 +1,98 @@
+[
+{
+  "question": "Was ist ein Anwendungsfalldiagramm?",
+  "answer": "Ein UML-Diagramm, das die funktionalen Anforderungen eines Systems aus Sicht der Benutzer (Akteure) darstellt."
+},
+{
+  "question": "Wozu dient ein Anwendungsfalldiagramm?",
+  "answer": "Es dient dazu, zu veranschaulichen, welche Funktionen (Use Cases) ein System bietet und welche Akteure diese nutzen."
+},
+{
+  "question": "Was wird durch ein Anwendungsfalldiagramm veranschaulicht?",
+  "answer": "Das Zusammenspiel zwischen Akteuren und den Funktionen (Use Cases) eines Systems sowie die Systemgrenze."
+},
+{
+  "question": "Was ist ein Use Case?",
+  "answer": "Ein Anwendungsfall – eine konkrete Funktion oder ein Ablauf, den das System für einen Akteur bereitstellt."
+},
+{
+  "question": "Was beschreibt ein Use Case?",
+  "answer": "Er beschreibt eine abgeschlossene, für den Akteur nutzbringende Interaktion mit dem System."
+},
+{
+  "question": "Wozu dient ein Use Case?",
+  "answer": "Er dokumentiert eine fachliche Anforderung/Funktionalität, ohne die technische Umsetzung festzulegen."
+},
+{
+  "question": "Wie wird ein Use Case in einem Anwendungsfalldiagramm dargestellt?",
+  "answer": "Als Ellipse mit dem Namen des Anwendungsfalls im Inneren."
+},
+{
+  "question": "Was ist ein Akteur in einem Anwendungsfalldiagramm?",
+  "answer": "Eine Person, Rolle oder ein externes System, das mit dem System interagiert."
+},
+{
+  "question": "Welche Aufgabe hat ein Akteur in einem Anwendungsfalldiagramm?",
+  "answer": "Er löst Use Cases aus oder nimmt an ihnen teil, indem er mit dem System interagiert."
+},
+{
+  "question": "Wie wird ein Akteur in einem Anwendungsfalldiagramm dargestellt?",
+  "answer": "Als Strichmännchen (Strichfigur) mit Namen darunter."
+},
+{
+  "question": "Was kann ein Akteur in einem Anwendungsfalldiagramm darstellen?",
+  "answer": "Einen Menschen, eine Benutzerrolle oder ein anderes (externes) System."
+},
+{
+  "question": "Was ist eine Systemgrenze in einem Anwendungsfalldiagramm?",
+  "answer": "Die Abgrenzung, die festlegt, welche Use Cases zum betrachteten System gehören."
+},
+{
+  "question": "Wozu dient die Systemgrenze in einem Anwendungsfalldiagramm?",
+  "answer": "Sie trennt das System (innen) von den Akteuren (außen) und zeigt den Geltungsbereich der Modellierung."
+},
+{
+  "question": "Wie wird eine Systemgrenze in einem Anwendungsfalldiagramm dargestellt?",
+  "answer": "Als Rechteck, das alle Use Cases umschließt."
+},
+{
+  "question": "Wo wird der Systemname in einem Anwendungsfalldiagramm angegeben?",
+  "answer": "Oben am oder im Rechteck der Systemgrenze."
+},
+{
+  "question": "Welche Bedeutung hat der Systemname innerhalb der Systemgrenze?",
+  "answer": "Er benennt das modellierte System, zu dem die enthaltenen Use Cases gehören."
+},
+{
+  "question": "Welche Bestandteile gehören zu einem Anwendungsfalldiagramm?",
+  "answer": "Akteure, Use Cases, Systemgrenze und Beziehungen (Assoziation, Vererbung, Include, Extend)."
+},
+{
+  "question": "Welche Elemente können in einem vollständigen Anwendungsfalldiagramm vorkommen?",
+  "answer": "Akteure, Systemgrenze mit Systemname, Use Cases, Assoziationen, Vererbungen, Include- und Extend-Beziehungen, Extension Points, Conditions."
+},
+{
+  "question": "Welche Arten von Beziehungen können in einem Anwendungsfalldiagramm vorkommen?",
+  "answer": "Assoziation, Vererbung (Generalisierung), Include-Beziehung, Extend-Beziehung."
+},
+{
+  "question": "Was ist eine Assoziation in einem Anwendungsfalldiagramm?",
+  "answer": "Eine Verbindung zwischen Akteur und Use Case, die eine Kommunikationsbeziehung ausdrückt."
+},
+{
+  "question": "Welche Bedeutung hat eine Assoziation zwischen einem Akteur und einem Use Case?",
+  "answer": "Sie zeigt, dass der Akteur an diesem Use Case beteiligt ist bzw. ihn nutzt/auslöst."
+},
+{
+  "question": "Wie wird eine Assoziation in einem Anwendungsfalldiagramm dargestellt?",
+  "answer": "Als durchgezogene Linie ohne Pfeilspitze zwischen Akteur und Use Case."
+},
+{
+  "question": "Was ist eine Vererbung in einem Anwendungsfalldiagramm?",
+  "answer": "Eine Beziehung, bei der ein spezielleres Element die Eigenschaften eines allgemeineren Elements übernimmt (bei Akteuren oder Use Cases)."
+},
+{
+  "question": "Welche Bedeutung hat eine Vererbung zwischen Akteuren?",
+  "answer": "Ein spezieller Akteur übernimmt alle Rechte/Interaktionen des allgemeineren Akteurs und kann zusätzliche eigene haben."
+}
+]
